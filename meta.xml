@@ -1,0 +1,9 @@
+<meta>
+	<oop>true</oop>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"></script>
+	<file src = "fontlar/roboto.ttf" type="client" cache="false"/>
+	<file src = "fontlar/icons.ttf" type="client" cache="false"/>
+	<file src = "fontlar/image.png" type="client" cache="false"/>
+  
+</meta>
